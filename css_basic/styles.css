@@ -2,6 +2,7 @@ body {
     display: flex;
     flex-direction: column;
     height: 100vh;
+    background-color: white;
 }
 
 main {
@@ -14,17 +15,19 @@ article {
     flex: 2;
     overflow-y: auto;
     padding: 20px;
+    background-color: lightgray;
 }
 
 aside {
     flex: 1;
     overflow-y: auto;
     padding: 20px;
+    background-color: lightyellow;
 }
 
 header, footer {
     padding: 20px;
-    background-color: #f1f1f1;
+    background-color: lightblue;
     text-align: center;
 }
 
@@ -45,7 +48,7 @@ header li {
 
 header a {
     text-decoration: none;
-    color: #333;
+    color: darkblue;
 }
 
 footer p {
@@ -53,7 +56,7 @@ footer p {
 }
 
 footer a {
-    color: #F80002;
+    color: darkred;
     text-decoration: none;
 }
 
