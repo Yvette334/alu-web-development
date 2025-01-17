@@ -24,4 +24,4 @@ Repo Structure:
 - Directory: `css_advanced`
 - Files: `README.md`, `index.html`
 
-![image figma](https://github.com/Yvette334/alu-web-development/blob/master/html_advanced/images/hp.png)
+![image figma](https://github.com/Yvette334/alu-web-development/blob/master/html_advanced/image/hp.png)
