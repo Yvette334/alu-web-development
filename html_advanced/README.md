@@ -16,5 +16,5 @@ Resources:
 - Fonts: Source Sans Pro, Spin Cycle OT  
 - [W3C Validator](https://validator.w3.org/)  
 
-![image](https://github.com/Yvette334/alu-web-development/blob/master/html_advanced/alu-web-development/html_advanced/image/hp.png)
+![image](https://github.com/Yvette334/alu-web-development/blob/master/html_advanced/image/hp.png)
 
