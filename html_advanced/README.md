@@ -16,5 +16,5 @@ Resources:
 - Fonts: Source Sans Pro, Spin Cycle OT  
 - [W3C Validator](https://validator.w3.org/)  
 
-![HP Logo](html_advanced/image/hp.png)
+![HP Logo](alu-web-development/html_advanced/image/hp.png)
 
